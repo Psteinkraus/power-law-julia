@@ -1,1 +1,1 @@
-# power-law-julia
+One day, this will be a version of the code over at https://github.com/Tjoppen/power_law, just written in Julia.
